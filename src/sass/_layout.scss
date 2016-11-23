@@ -1,0 +1,45 @@
+.main{
+    &__center{
+        width: $layout-width;
+    }
+}
+.header{
+    height: $header-height;
+}
+
+td{
+    font-family: Arial, sans-serif;
+}
+table{
+    width: 100%;
+}
+
+
+.full-width-image img {
+    max-width: $layout-width;
+    height: auto;
+}
+
+.wrapper {
+    width: 100%;
+    table-layout: fixed;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+.webkit {
+    max-width: $layout-width;
+    margin: 0 auto;
+}
+
+
+.two-column .column {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+td.border{
+    width: 10px;
+    background: $w;
+}
