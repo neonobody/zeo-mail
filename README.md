@@ -10,9 +10,11 @@ sudo npm i
 gulp build
 ```
 
-For start: type in terminal
-1. `gulp build`
-2. `gulp`
+For start: type in terminal:
 
+```
+gulp build
+gulp
+```
 
 You can also unzip 'mail-build.zip' for see a result without installing the project 
