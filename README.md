@@ -6,7 +6,7 @@ You have to be installed:
 Next - type in terminal:
 
 ```
-sudo npm i
+npm i
 gulp build
 ```
 
