@@ -1,6 +1,6 @@
 You have to be installed:
 
-- [nodejs и npm](https://nodejs.org/)
+- [nodejs and npm](https://nodejs.org/)
 - [gulp](http://gulpjs.com/)
 
 Next - type in terminal:
