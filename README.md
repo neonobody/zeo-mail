@@ -13,7 +13,6 @@ gulp build
 For start: type in terminal:
 
 ```
-gulp build
 gulp
 ```
 
